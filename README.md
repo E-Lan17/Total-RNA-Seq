@@ -11,3 +11,5 @@ Exemple of samples heatmap divergences :
 
 Exemple of expression of two transcript during mice life :
 (E = embryonic life, W = weeks)
+![ENSMUST00000109085 8(GNASS)](https://github.com/E-Lan17/Total-RNA-Seq/assets/81633998/2a428017-800a-4775-a42d-df2b6b9a9ff5)
+![ENSMUST00000109087 8(GNASL)](https://github.com/E-Lan17/Total-RNA-Seq/assets/81633998/67e0662d-2b3e-4adc-9f30-017e79afc873)
