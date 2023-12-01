@@ -1,7 +1,8 @@
 # Total-RNA-Seq
 Total RNA seq analysis with kallisto and Sleuth
 
-Publicly available mice SRA were analysed in order to analyse two transcripts expression in the heart during the mice life.
+Publicly available mice SRA were analysed in order to analyse two transcripts expression (GNAS) in the heart during mice life.
+(The protein Gs alpha subunit (GNAS) is linked with heart pathologies)
 
 Exemple of samples quality results
 ![Sans titre](https://github.com/E-Lan17/Total-RNA-Seq/assets/81633998/66264beb-989f-46c7-bbe9-55fd38bb083e)
